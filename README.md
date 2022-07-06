@@ -44,3 +44,15 @@
 <br>
 
 - TM-generation model (60% 구현)
+
+
+----
+
+<br>
+
+### 코드 이해 및 실행
+
+<br>
+
+- DeductiveReasoner (진행중)
+- 
