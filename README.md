@@ -18,7 +18,6 @@
 
 - [Learning to Reason Deductively: Math Word Problem Solving as Complex Relation Extraction](https://heygeronimo.tistory.com/7)
 
-
 - [Generating Equation by Utilizing Operators : GEO Model](https://heygeronimo.tistory.com/9)
 
 [속독]
@@ -28,6 +27,8 @@
 - [Graph-to-Tree Learning for Solving Math Word Problems](https://aclanthology.org/2020.acl-main.362.pdf)
 
 - [Seeking Patterns, Not just Memorizing Procedures: Contrastive Learning for Solving Math Word Problems](https://arxiv.org/pdf/2110.08464.pdf)
+
+- [Investigating Math Word Problems using Pretrained Multilingual Language Models](https://arxiv.org/pdf/2105.08928.pdf)
 
 [예정]
 
@@ -45,7 +46,6 @@
 
 - TM-generation model (60% 구현)
 
-
 ----
 
 <br>
@@ -54,5 +54,20 @@
 
 <br>
 
-- DeductiveReasoner (진행중)
-- 
+- DeductiveReasoner (진행 완료) 
+
+[SVAMP]
+
+![](./img/deductive_reasoner_svamp.png)
+
+- 논문 성능: 47.3 (± 0.20)
+
+
+[SVAMP]
+
+![](./img/deductive_reasoner_svamp.png)
+
+- 논문 성능: 47.3 (± 0.20)
+
+
+- mBERT_LSTM (진행중)
