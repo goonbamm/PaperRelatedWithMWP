@@ -20,6 +20,12 @@
 
 - [Generating Equation by Utilizing Operators : GEO Model](https://heygeronimo.tistory.com/9)
 
+- [Investigating Math Word Problems using Pretrained Multilingual Language Models](https://heygeronimo.tistory.com/11)
+
+[데이터 정리]
+
+- [Math Word Problem Dataset](https://heygeronimo.tistory.com/12)
+
 [속독]
 
 - [A Goal-Driven Tree-Structured Neural Model for Math Word Problems](https://www.ijcai.org/proceedings/2019/0736.pdf)
@@ -28,7 +34,6 @@
 
 - [Seeking Patterns, Not just Memorizing Procedures: Contrastive Learning for Solving Math Word Problems](https://arxiv.org/pdf/2110.08464.pdf)
 
-- [Investigating Math Word Problems using Pretrained Multilingual Language Models](https://arxiv.org/pdf/2105.08928.pdf)
 
 [예정]
 
@@ -46,6 +51,8 @@
 
 - TM-generation model (60% 구현)
 
+- mBERT-LSTM (구현 완료)
+
 ----
 
 <br>
@@ -54,20 +61,4 @@
 
 <br>
 
-- DeductiveReasoner (진행 완료) 
-
-[SVAMP]
-
-![](./img/deductive_reasoner_svamp.png)
-
-- 논문 성능: 47.3 (± 0.20)
-
-
-[SVAMP]
-
-![](./img/deductive_reasoner_svamp.png)
-
-- 논문 성능: 47.3 (± 0.20)
-
-
-- mBERT_LSTM (진행중)
+- DeductiveReasoner (진행 완료)
